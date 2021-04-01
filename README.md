@@ -1,7 +1,7 @@
 # CAPM
 
-CAPM is a financial model developed by Sharpe and Markowitz, along with other mathematicians and economists. 
-In a simplified and theoretical market, an investor faces two main risks: systemic and systematic. While the first one is inevitable as the trend of the stock market is influenced by the conditions of the economic system, the second one can be managed through diversification, and CAPM is one way to deal with it, because it describes the relationship between systematic risk and expected return for assets using the beta coefficient, and classifies the portofolios through the Sharpe ratio that is the correlation between (yield - risk free rate) and standard deviation.
+CAPM is a financial model used to mitigate systematic risk through a correct asset allocation strategy.
+It simulates several portfolios and selects the one with better yield/risk ratio.
 
 Given as input a list of assets (in the form of tickers), the program:
 
